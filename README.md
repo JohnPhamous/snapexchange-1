@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 HTML5 QR-code reader - no flash, only html and javascript
 
 A very basic QR-code reader based on:
@@ -32,3 +33,6 @@ To-do:
 =======
 # snapexchange
 >>>>>>> master
+=======
+# snapexchange
+>>>>>>> samabhi/master
